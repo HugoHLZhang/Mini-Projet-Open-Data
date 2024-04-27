@@ -1,0 +1,110 @@
+[
+  {
+    "french":"Normal",
+    "english": "Normal",
+    "chinese": "一般",
+    "japanese": "ノーマル"
+  },
+  {
+    "french" : "Combat",
+    "english": "Fighting",
+    "chinese": "格斗",
+    "japanese": "かくとう"
+  },
+  {
+    "french" : "Vol",
+    "english": "Flying",
+    "chinese": "飞行",
+    "japanese": "ひこう"
+  },
+  {
+    "french" : "Poison",
+    "english": "Poison",
+    "chinese": "毒",
+    "japanese": "どく"
+  },
+  {
+    "french" : "Sol",
+    "english": "Ground",
+    "chinese": "地上",
+    "japanese": "じめん"
+  },
+  {
+    "french" : "Roche",
+    "english": "Rock",
+    "chinese": "岩石",
+    "japanese": "いわ"
+  },
+  {
+    "french" : "Insecte",
+    "english": "Bug",
+    "chinese": "虫",
+    "japanese": "むし"
+  },
+  {
+    "french" : "Spectre",
+    "english": "Ghost",
+    "chinese": "幽灵",
+    "japanese": "ゴースト"
+  },
+  {
+    "french" : "Acier",
+    "english": "Steel",
+    "chinese": "钢",
+    "japanese": "はがね"
+  },
+  {
+    "french" : "Feu",
+    "english": "Fire",
+    "chinese": "炎",
+    "japanese": "ほのお"
+  },
+  {
+    "french" : "Eau",
+    "english": "Water",
+    "chinese": "水",
+    "japanese": "みず"
+  },
+  {
+    "french" : "Plante",  
+    "english": "Grass",
+    "chinese": "草",
+    "japanese": "くさ"
+  },
+  {
+    "french" : "Électrik",
+    "english": "Electric",
+    "chinese": "电",
+    "japanese": "でんき"
+  },
+  {
+    "french" : "Spy",
+    "english": "Psychic",
+    "chinese": "超能",
+    "japanese": "エスパー"
+  },
+  {
+    "french" : "Glace",
+    "english": "Ice",
+    "chinese": "冰",
+    "japanese": "こおり"
+  },
+  {
+    "french" : "Dragon",
+    "english": "Dragon",
+    "chinese": "龙",
+    "japanese": "ドラゴン"
+  },
+  {
+    "french" : "Ténèbre",
+    "english": "Dark",
+    "chinese": "恶",
+    "japanese": "あく"
+  },
+  {
+    "french" : "Fée",
+    "english": "Fairy",
+    "chinese": "妖精",
+    "japanese": "フェアリー"
+  }
+]
