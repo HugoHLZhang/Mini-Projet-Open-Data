@@ -13,33 +13,33 @@ suivre le tutoriel [ici](https://perso.esiee.fr/~courivad/Python/install/python.
 
 Instruction pour cloner le projet sur sa machine personnelle :
 
-    $ git clone https://git.esiee.fr/zhanhu/mini-projet-open-data.git
+    git clone https://git.esiee.fr/zhanhu/mini-projet-open-data.git
 
 Se placer dans le répertoire du projet :
 
 > sur Git Bash :
 
-    $ cd mini-projet-open-data/
+    cd mini-projet-open-data/
     
 > sur Windows PowerShell :
 
-    $ cd .\mini-projet-open-data\
+    cd .\mini-projet-open-data\
 
 La liste des packages additionnels sont dans le fichier **requirements.txt** contenant les packages à installer.
 Instruction pour installer ces packages :
 
-    $ python -m pip install -r requirements.txt
+    python -m pip install -r requirements.txt
 
 Si nécessaire, faire une mise à jour du pip : 
 
-    $ python.exe -m pip install --upgrade pip
+    python.exe -m pip install --upgrade pip
 
 
 # Démarrage
 
 Instruction à exécuter dans le terminal pour lancer le projet :
 
-    $ python main.py
+    python main.py
 
 Cette application est lancée dans une console :
 
