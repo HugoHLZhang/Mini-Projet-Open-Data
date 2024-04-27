@@ -26,14 +26,13 @@ Se placer dans le répertoire du projet :
     cd .\mini-projet-open-data\
 
 La liste des packages additionnels sont dans le fichier **requirements.txt** contenant les packages à installer.
-Instruction pour installer ces packages :
-
-    python -m pip install -r requirements.txt
-
 Si nécessaire, faire une mise à jour du pip : 
 
     python.exe -m pip install --upgrade pip
+    
+Instruction pour installer ces packages :
 
+    python -m pip install -r requirements.txt
 
 # Démarrage
 
